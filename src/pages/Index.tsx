@@ -22,7 +22,7 @@ const Index = () => {
       id: 1,
       name: 'Минималистичная футболка',
       price: 2490,
-      image: '/img/c86c02c3-03d8-43ab-910d-506d6a7bec83.jpg',
+      image: '/img/05455b00-8d3c-4b1f-b894-acae017f0dc9.jpg',
       sizes: ['XS', 'S', 'M', 'L', 'XL'],
       category: 'футболки'
     },
@@ -30,7 +30,7 @@ const Index = () => {
       id: 2,
       name: 'Стильные кроссовки',
       price: 8990,
-      image: '/img/c86c02c3-03d8-43ab-910d-506d6a7bec83.jpg',
+      image: '/img/579bb874-9750-4340-8736-06446c7afd02.jpg',
       sizes: ['36', '37', '38', '39', '40', '41', '42'],
       category: 'обувь'
     },
@@ -38,7 +38,7 @@ const Index = () => {
       id: 3,
       name: 'Элегантная куртка',
       price: 12990,
-      image: '/img/c86c02c3-03d8-43ab-910d-506d6a7bec83.jpg',
+      image: '/img/2da42c11-2f95-494f-a5bd-a91d43cdbfa6.jpg',
       sizes: ['S', 'M', 'L', 'XL'],
       category: 'верхняя одежда'
     },
@@ -46,7 +46,7 @@ const Index = () => {
       id: 4,
       name: 'Классические джинсы',
       price: 5990,
-      image: '/img/c86c02c3-03d8-43ab-910d-506d6a7bec83.jpg',
+      image: '/img/fb3395ca-6f6f-4b40-8f82-4bb805ce3410.jpg',
       sizes: ['28', '30', '32', '34', '36'],
       category: 'брюки'
     },
@@ -54,7 +54,7 @@ const Index = () => {
       id: 5,
       name: 'Трендовое худи',
       price: 4290,
-      image: '/img/c86c02c3-03d8-43ab-910d-506d6a7bec83.jpg',
+      image: '/img/e03e4fc2-e1d3-4756-8d73-c00695916832.jpg',
       sizes: ['XS', 'S', 'M', 'L', 'XL', 'XXL'],
       category: 'худи'
     },
@@ -62,7 +62,7 @@ const Index = () => {
       id: 6,
       name: 'Строгая рубашка',
       price: 3490,
-      image: '/img/c86c02c3-03d8-43ab-910d-506d6a7bec83.jpg',
+      image: '/img/aa310f5d-1bb0-41fe-8f88-1b95b4405286.jpg',
       sizes: ['S', 'M', 'L', 'XL'],
       category: 'рубашки'
     }
